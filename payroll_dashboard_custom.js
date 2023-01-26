@@ -1,4 +1,5 @@
-    const config = {
+alert('give me this'); 
+const config = {
         type: 'bar',
         data: {
             labels: [
