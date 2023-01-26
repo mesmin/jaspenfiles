@@ -1,5 +1,3 @@
-<script>
-
     const config = {
         type: 'bar',
         data: {
@@ -62,4 +60,3 @@
     const ctx = document.getElementById('myChart');
 
     new Chart(ctx, config);
-</script>
